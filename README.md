@@ -5,3 +5,4 @@ This is a place to share my learning on Quant stuffs, like strategies, algo trad
 | Course      | Learning point | Status     |
 | :---        | :----          | :---       |
 | [The Options Playbook](https://www.optionsplaybook.com/)      |  Options strategies     | Not started  |
+| [pfhedge](https://github.com/pfnet-research/pfhedge)      |  Hedging     | Not started  |
